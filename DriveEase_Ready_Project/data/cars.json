@@ -1,0 +1,80 @@
+[
+  {
+    "id": "car-1",
+    "name": "Hyundai Creta",
+    "type": "SUV",
+    "pricePerDay": 2500,
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "emoji": "🚙",
+    "color": "#dce8ff",
+    "description": "A comfortable SUV for city drives and weekend escapes.",
+    "available": true
+  },
+  {
+    "id": "car-2",
+    "name": "Maruti Swift",
+    "type": "Hatchback",
+    "pricePerDay": 1500,
+    "seats": 5,
+    "transmission": "Manual",
+    "fuel": "Petrol",
+    "emoji": "🚗",
+    "color": "#ffe5dc",
+    "description": "Compact, economical, and easy to park anywhere.",
+    "available": true
+  },
+  {
+    "id": "car-3",
+    "name": "Honda City",
+    "type": "Sedan",
+    "pricePerDay": 2200,
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "emoji": "🚘",
+    "color": "#e4f4e9",
+    "description": "A refined sedan for smooth and comfortable journeys.",
+    "available": true
+  },
+  {
+    "id": "car-4",
+    "name": "Toyota Innova",
+    "type": "MUV",
+    "pricePerDay": 3500,
+    "seats": 7,
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "emoji": "🚐",
+    "color": "#f0e5ff",
+    "description": "Spacious seating for families and group trips.",
+    "available": true
+  },
+  {
+    "id": "car-5",
+    "name": "Tata Nexon",
+    "type": "SUV",
+    "pricePerDay": 2000,
+    "seats": 5,
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "emoji": "🚙",
+    "color": "#fff0c9",
+    "description": "A versatile compact SUV for everyday adventures.",
+    "available": true
+  },
+  {
+    "id": "car-6",
+    "name": "Mahindra Thar",
+    "type": "Off-road",
+    "pricePerDay": 4000,
+    "seats": 4,
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "emoji": "🚙",
+    "color": "#e3e9ed",
+    "description": "Adventure-ready styling for memorable road trips.",
+    "available": true
+  }
+]

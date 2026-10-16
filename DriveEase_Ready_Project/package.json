@@ -1,0 +1,16 @@
+{
+  "name": "driveease-ready-project",
+  "version": "1.0.0",
+  "description": "A working DriveEase car rental demo with persistent bookings and no external database requirement.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "mongodb": "^7.7.0"
+  }
+}
